@@ -6,3 +6,4 @@ python-Levenshtein>=0.25.0   # accelerates thefuzz
 python-dotenv>=1.0.0
 opencv-python-headless>=4.9.0  # bottle detection (no GUI deps)
 numpy>=1.26.0                  # required by OpenCV
+gunicorn>=21.2.0
