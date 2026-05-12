@@ -1,0 +1,8 @@
+anthropic>=0.28.0
+flask>=3.0.0
+flask-cors>=4.0.0
+thefuzz>=0.22.1
+python-Levenshtein>=0.25.0   # accelerates thefuzz
+python-dotenv>=1.0.0
+opencv-python-headless>=4.9.0  # bottle detection (no GUI deps)
+numpy>=1.26.0                  # required by OpenCV
